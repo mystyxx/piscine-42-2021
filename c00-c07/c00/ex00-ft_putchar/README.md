@@ -1,0 +1,1 @@
+- this function writes a single character into the console.
