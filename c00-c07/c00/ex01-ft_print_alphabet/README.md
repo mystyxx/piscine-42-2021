@@ -1,0 +1,1 @@
+- this function writes the alphabet in the console.
