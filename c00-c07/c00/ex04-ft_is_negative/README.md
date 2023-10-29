@@ -1,0 +1,1 @@
+- this function writes N in the console if the number entered as parameter is negative and P if it is positive.
