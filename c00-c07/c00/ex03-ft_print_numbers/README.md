@@ -1,0 +1,1 @@
+- this function writes the numbers in the console.
